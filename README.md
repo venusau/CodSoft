@@ -14,13 +14,13 @@ The internship focuses on developing GUI-based applications for both Python and 
 #### Python Programs:
 
 1. **To-Do List Task Application**:
-   - Run the `todo_list.py` file.
+   - Run the `To_do_list_task.py` file.
    - Add tasks by entering the task description and pressing the "Add Task" button.
    - Mark tasks as completed by clicking the checkbox beside each task.
    - Delete tasks by clicking the "Delete" button next to the task.
 
 2. **Calculator Application**:
-   - Run the `calculator.py` file.
+   - Run the `calculator_task.py` file.
    - A GUI window will open with a calculator interface.
    - Use the buttons to perform basic arithmetic operations.
 
@@ -37,12 +37,12 @@ The internship focuses on developing GUI-based applications for both Python and 
    - Simulate basic ATM functions like checking balance, withdrawing, and depositing.
 
 2. **Number Guessing Game UI**:
-   - Run the `NumberGuessingGame.java` file.
+   - Run the `NumberGuessingGameGUI.java` file.
    - A window will prompt you to guess a random number between a specified range.
    - Try to guess the number within the given attempts to win.
 
 3. **Word Counter Java Program**:
-   - Run the `WordCounter.java` file.
+   - Run the `WordCounterMinimalGUI.java` file.
    - A simple GUI will allow you to input text, and it will count the number of words in the text.
 
 ### Guidelines for Contributions
@@ -72,10 +72,8 @@ If you encounter any issues or bugs while working with the programs, please foll
 
 We would like to acknowledge and express gratitude to the following individuals and resources for their contributions and support during this internship:
 
-- [Mentor's Name] for their guidance and mentorship throughout the internship.
-
-Sure, here's the updated section with your contact information:
-
+ -Google, Geeks for Geeks(gfg) for their guidance and mentorship throughout the internship.
+ 
 ### Contact Information
 
 If you have any questions or need assistance, you can contact:
